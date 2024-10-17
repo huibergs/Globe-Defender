@@ -1,43 +1,47 @@
 Privacy Policy
 
-Last updated: May 23, 2024.
+Last updated: October 17, 2024.
 
 Welcome to Globe Defender!
 
-This privacy policy explains how I collect, use, and share information about you when you use my mobile application Globe Defender (the "App").
+This privacy policy explains how we collect, use, and share information about you when you use my mobile application Globe Defender (the "App").
 
-1. Information I Collect
-
+1. Information We Collect
 Personally Identifiable Information (PII):
 
-I do not collect any personally identifiable information directly through my App.
+We do not collect any personally identifiable information directly through my App.
 
 Non-Personally Identifiable Information:
 
 Usage data such as gameplay statistics, session length, and in-game actions.
+While we do not collect personally identifiable information directly, the Appodeal SDK and certain ad networks may collect non-personally identifiable information. This can include:
+Technical device data (e.g., device model, user-agent)
+Other device data (e.g., device type, current device state, screen brightness, etc.)
+Network information (e.g., provider, connection type)
+Other identifiers (e.g., IP address, MCC-MNC)
+Please note that third-party services like the Appodeal SDK may have their own privacy practices, and we encourage users to review their policies for more information.
 
 2. Data Transmission
-The App may transmit non-personally identifiable information such as usage data to my servers to improve the game experience and for analytics purposes.
+The App may transmit non-personally identifiable information such as usage data to our servers or to third-party analytics providers to improve the game experience and for analytics purposes.
 
-3. How I Use Your Data
+3. How We Use Your Data
 To improve game functionality and user experience.
 To analyze usage patterns to enhance our services.
 To fix bugs and ensure the security of the App.
 
 4. Data Deletion Requests
-You can request the deletion of your data by contacting me at huibergs.games@gmail.com. I will respond to your request within a reasonable timeframe.
+You can request the deletion of your data by contacting us at huibergs.games@gmail.com. We will respond to your request within a reasonable timeframe.
 
 5. App Permissions
-The App requires the following permissions:
+The App requires access to the following:
+Google Play Profile Name: This permission is needed to save your results to leaderboards. This is strictly for leaderboard functionality and is not stored outside of this use.
+The App does not require access to location data.
 
-To store your Google Play name: This permission is needed to save your results to leaderboards.
-
-6. Contact Me
-If you have any questions or concerns about this privacy policy, or if you need to report a security vulnerability, please contact me at: huibergs.games@gmail.com
+6. Contact Us
+If you have any questions or concerns about this privacy policy, or if you need to report a security vulnerability, please contact us at: huibergs.games@gmail.com
 
 7. Changes to This Privacy Policy
-I may update the Privacy Policy from time to time and will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+We may update the Privacy Policy from time to time and will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
 By using the App, you agree to the collection and use of information in accordance with this policy.
-
 
